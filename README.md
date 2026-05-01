@@ -1,10 +1,6 @@
-## Hi there 👋
-
+# About me
+:adult:I am Khanh Nguyen Quoc (you can call me **"Nguyễn Quốc Khánh"** in Vietnamese or **"グエン・クオック・カイン"** in Japanese)
 <!--
-**qkhanhng0209/qkhanhng0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
